@@ -3,7 +3,8 @@
 
 Created in Python 3 this should create a fly-through of a brain from https://braincatalogue.org  
 
-<a class="js-navigation-open" title="MRI_Brain.mp4" id="3aa49e86e87252e7be439a9d50bd6baf-f82f10df6c325a7a5e55a2a330ae896ffe132269" href="/edpeake/Brain-Video/blob/master/MRI_Brain.mp4">MRI_Brain.mp4</a>
+![alt text](https://github.com/edpeake/Brain-Video/blob/master/Brain%20Movie.gif)
+
 
 For the Jupiter Notebook Check out:
 
